@@ -6,7 +6,8 @@ Things I'm trying:
 1. managing merge conflict
 2. working with multiple branches on github
 3. developing multiple features simulatenously
-4. anything else I find interesting
+4. syncing remote branches with local
+5. anything else I find interesting
 
 What I learned:
 1. To push from local branch to a non-existent remote (GitHub) branch, use:
