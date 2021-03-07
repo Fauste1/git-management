@@ -8,4 +8,5 @@ console.log('feature 3')
 
 console.log('feature 4')
 
-console.log('feature 5, to be published from local environment')
+console.log('feature 5')
+console.log('feature 5.1 pushing to a newly published branch from local')
